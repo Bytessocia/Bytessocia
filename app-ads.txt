@@ -126,3 +126,47 @@ google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 Pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 524101463, RESELLER, 29bc7d05d309e1bc
+target.my.com, 13033031, reseller
+adiiix.com, 1b5c093d, reseller
+pubmatic.com, 156517, reseller, 5d62403b186f2ace
+webeyemob.com, 80067, reseller
+adelement.com, 36011, reseller
+adelement.com, 36012, reseller
+pubnative.net, 1008770, reseller, d641df8625486a7b
+ushareit.com, lc2d7ebe00c3f9364a, reseller
+loopme.com, 11633, reseller, 6c8d5f95897a5a3b
+lenovoads.com, 4000, reseller
+inmobi.com, 95ef2003a2c742db81a45303d6e4cf8b, reseller, 83e75a7ae333ca9d
+video.unrulymedia.com, 251620492, reseller
+smartadserver.com, 4728, reseller, 060d053dcf45cbf3
+advangelists.com, a5cdd4aa0048b187f7182f1b9ce7a6a7, reseller, 60d26397ec060f98
+rubiconproject.com, 25978, reseller, 0bfd66d529a55807
+rubiconproject.com, 25482, reseller, 0bfd66d529a55807
+indexexchange.com, 206797, reseller, 50b1c356f2c5c8fc
+openx.com, 559912325, reseller, 6a698e2ec38604c6
+lijit.com, 488437, reseller, fafdf38b16bf6b2b
+openx.com, 538959099, reseller, 6a698e2ec38604c6
+pubmatic.com, 164079, reseller, 5d62403b186f2ace
+rubiconproject.com, 17960, reseller, 0bfd66d529a55807
+appnexus.com, 1019, reseller, f5ab79cb980f11d1
+chocolateplatform.com, 19559, reseller
+pubmatic.com, 160888, reseller, 5d62403b186f2ace
+inmobi.com, fe4db13744124582a6a2b18964560ce7, reseller, 83e75a7ae333ca9d
+contextweb.com, 563114, reseller, 89ff185a4c4e857c
+ignitemediatech.com, pub_11119, reseller
+admixer.co.kr, 2035, reseller
+admixer.co.kr, 2041, reseller
+pubmatic.com, 161748, reseller, 5d62403b186f2ace
+triplelift.com, 14127, reseller, 6c33edb13117fd86
+triplelift.com, 14127-eb, reseller, 6c33edb13117fd86
+sharethrough.com, 5eq7zf1q, reseller, d53b998a7bd4ecd2
+openx.com, 540274407, reseller, 6a698e2ec38604c6
+smaato.com, 1100047713, reseller, 07bcf65f187117b4
+appnexus.com, 8178, reseller, f5ab79cb980f11d1
+mintegral.com, 10003, reseller
+rubiconproject.com, 20744, reseller, 0bfd66d529a55807
+pubmatic.com, 158154, reseller, 5d62403b186f2ace
+admedia.com, 1573, reseller
+eskimi.com, 2020000022, reseller
+appnexus.com, 15670, reseller
+rubiconproject.com, 26250, reseller, 0bfd66d529a55807
